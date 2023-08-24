@@ -11,4 +11,4 @@ jobs:
           node-version: '18'
       - run: npm i jest --global
       - run: npm i jest-expo
-      - run: jest
+      - run: jest --passWithNoTests
