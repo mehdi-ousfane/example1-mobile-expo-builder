@@ -1,5 +1,5 @@
 name: basic-github-actions
-run-name: ${{ github.repository_owner }} is adding GitHub Actions
+run-name: Packages version
 on: [pull_request]
 jobs:
   check-jest-version:
