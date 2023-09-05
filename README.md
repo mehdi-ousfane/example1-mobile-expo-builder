@@ -1,2 +1,2 @@
-<img width="409" alt="Capture d’écran 2023-09-04 à 10 48 54" src="https://github.com/mehdi-ousfane/example1-mobile-expo-builder/assets/64252905/6259a1a7-609a-4ffe-a046-addbe794100d">
 ## Introduction
+![Capture d’écran 2023-09-05 à 18 46 44 - Moyenne](https://github.com/mehdi-ousfane/example1-mobile-expo-builder/assets/64252905/8444fa21-3d31-4ba2-9809-74af2b03b375)
